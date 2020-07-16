@@ -81,12 +81,20 @@
       "nationPicturePath": "Egyptian_(Civ6).png"
     },
     {
-      "nationName": "English",
+      "nationName": "English Victoria",
       "leaderName": "Victoria",
       "expansion": [
         "Vanilla"
       ],
       "nationPicturePath": "English_(Civ6).png"
+    },
+    {
+      "nationName": "English Eleanor",
+      "leaderName": "Eleanor",
+      "expansion": [
+        "Gathering Storm"
+      ],
+      "nationPicturePath": "English_(Civ6)_2.png"
     },
     {
       "nationName": "French",
@@ -113,12 +121,28 @@
       "nationPicturePath": "German_(Civ6).png"
     },
     {
-      "nationName": "Greek",
+      "nationName": "Gran Colombian",
+      "leaderName": "Simón Bolívar",
+      "expansion": [
+        "Maya & Gran Colombia Pack"
+      ],
+      "nationPicturePath": "Gran_Colombian_(Civ6).png"
+    },
+    {
+      "nationName": "Greek Pericles",
       "leaderName": "Pericles",
       "expansion": [
         "Vanilla"
       ],
       "nationPicturePath": "Greek_(Civ6).png"
+    },
+    {
+      "nationName": "Greek Gorgo",
+      "leaderName": "Gorgo",
+      "expansion": [
+        "Vanilla"
+      ],
+      "nationPicturePath": "Greek_(Civ6)_2.png"
     },
     {
       "nationName": "Hungarian",
@@ -129,12 +153,20 @@
       "nationPicturePath": "Hungarian_(Civ6).png"
     },
     {
-      "nationName": "Indian",
+      "nationName": "Indian Gandhi",
       "leaderName": "Gandhi",
       "expansion": [
         "Vanilla"
       ],
       "nationPicturePath": "Indian_(Civ6).png"
+    },
+    {
+      "nationName": "Indian Chandragupta",
+      "leaderName": "Chandragupta",
+      "expansion": [
+        "Rise and Fall"
+      ],
+      "nationPicturePath": "Indian_(Civ6)_2.png"
     },
     {
       "nationName": "Japanese",
@@ -215,6 +247,14 @@
         "Rise and Fall"
       ],
       "nationPicturePath": "Mapuche_(Civ6).png"
+    },
+    {
+      "nationName": "Mayan",
+      "leaderName": "Lady Six Sky",
+      "expansion": [
+        "Maya & Gran Colombia Pack"
+      ],
+      "nationPicturePath": "Mayan_(Civ6).png"
     },
     {
       "nationName": "Mongolian",
