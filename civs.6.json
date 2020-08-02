@@ -1,10 +1,18 @@
 {
   "civilizations": [
     {
-      "nationName": "American",
+      "nationName": "American - Rough Rider",
       "leaderName": "Theodore Roosevelt",
       "expansion": [
         "Vanilla"
+      ],
+      "nationPicturePath": "American_(Civ6).png"
+    },
+    {
+      "nationName": "American - Bull Moose",
+      "leaderName": "Theodore Roosevelt",
+      "expansion": [
+        "Persona Pack"
       ],
       "nationPicturePath": "American_(Civ6).png"
     },
@@ -97,10 +105,26 @@
       "nationPicturePath": "English_(Civ6)_2.png"
     },
     {
-      "nationName": "French",
+      "nationName": "Ethiopia",
+      "leaderName": "Menelik II",
+      "expansion": [
+        "Ethiopia"
+      ],
+      "nationPicturePath": "Ethiopia_(Civ6).png"
+    },
+    {
+      "nationName": "French - Black Queen",
       "leaderName": "Catherine de Medici",
       "expansion": [
         "Vanilla"
+      ],
+      "nationPicturePath": "French_(Civ6).png"
+    },
+    {
+      "nationName": "French - Magnificence",
+      "leaderName": "Catherine de Medici",
+      "expansion": [
+        "Persona Pack"
       ],
       "nationPicturePath": "French_(Civ6).png"
     },
@@ -124,7 +148,7 @@
       "nationName": "Gran Colombian",
       "leaderName": "Simón Bolívar",
       "expansion": [
-        "Maya & Gran Colombia Pack"
+        "Maya & Gran Colombia"
       ],
       "nationPicturePath": "Gran_Colombian_(Civ6).png"
     },
@@ -252,7 +276,7 @@
       "nationName": "Mayan",
       "leaderName": "Lady Six Sky",
       "expansion": [
-        "Maya & Gran Colombia Pack"
+        "Maya & Gran Colombia"
       ],
       "nationPicturePath": "Mayan_(Civ6).png"
     },
